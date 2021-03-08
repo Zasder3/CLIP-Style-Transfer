@@ -11,3 +11,8 @@ Under normal circumstances, one would you a method like that of Gatys et al. to 
 
 ### CLIP-based Style Transfer
 Using a similar technique to that of Gatys et al. we trade Gram Matrices for CLIP activations. Given your image and a phrase, CLIP can transfer (somewhat successfully) the artist or painting's style that you specify!
+
+#### Special Features of this Method
+1. There is an understanding of spatial relationships. 🌌
+2. Ghost faces and self-portraits. 👻
+3. Abstract/general style and motif comprehension. 🎨
