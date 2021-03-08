@@ -1,5 +1,3 @@
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://bit.ly/3kTJYXo)
-
 # Learning Artistic Style From Language Features
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://bit.ly/3kTJYXo)
 
