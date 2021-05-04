@@ -7,7 +7,7 @@ Doing style transfer with grounding OpenAI's CLIP.
 ![a van gogh starry night style painting of a modern house](https://user-images.githubusercontent.com/5066934/110341096-9940bc80-7fef-11eb-8691-3388325d0351.gif)
 
 ### Typical Style Transfer
-Under normal circumstances, one would you a method like that of Gatys et al. to transfer the style of one image to the content of another. This only encompasses one photo and has no true concept of space.
+Under normal circumstances, one would use a method like that of Gatys et al. to transfer the style of one image to the content of another. This only encompasses one photo and has no true concept of space.
 
 ### CLIP-based Style Transfer
 Using a similar technique to that of Gatys et al. we trade Gram Matrices for CLIP activations. Given your image and a phrase, CLIP can transfer (somewhat successfully) the artist or painting's style that you specify!
